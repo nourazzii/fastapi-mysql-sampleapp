@@ -1,0 +1,7 @@
+fastapi==0.60.1
+pydantic==1.6.1
+pymysql==0.10.0
+pytest==6.0.1
+requests==2.24.0
+sqlalchemy==1.3.18
+uvicorn==0.11.8
