@@ -1,5 +1,5 @@
 fastapi==0.60.1
-pydantic==1.6.1
+pydantic==1.6.2
 pymysql==0.10.0
 pytest==6.0.1
 requests==2.24.0
